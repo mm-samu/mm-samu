@@ -8,4 +8,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mm-samu&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-samu.github.io&theme=dark&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mm-samu&repo=mm-samu.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
